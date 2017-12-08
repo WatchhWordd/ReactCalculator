@@ -49,6 +49,10 @@ var Style = StyleSheet.create({
     imagePosition:{
         width:193,
         height:110
+    },
+
+    GreetingPosition:{
+        alignItems: 'center'
     }
 
 });

@@ -16,5 +16,31 @@
         android:layout_height="50dp"
         android:text="calculator"/>
 
+    <Button
+        android:id="@+id/id_main_greeting"
+        android:layout_width="200dp"
+        android:layout_height="50dp"
+        android:text="greeting"/>
+
+    <Button
+        android:id="@+id/id_main_blink"
+        android:layout_width="200dp"
+        android:layout_height="50dp"
+        android:text="greeting"/>
+    <Button
+        android:id="@+id/id_main_one"
+        android:layout_width="200dp"
+        android:layout_height="50dp"
+        android:text="greeting"/>
+    <Button
+        android:id="@+id/id_main_two"
+        android:layout_width="200dp"
+        android:layout_height="50dp"
+        android:text="greeting"/>
+    <Button
+        android:id="@+id/id_main_three"
+        android:layout_width="200dp"
+        android:layout_height="50dp"
+        android:text="greeting"/>
 
 </LinearLayout>
