@@ -44,7 +44,13 @@ var Style = StyleSheet.create({
     inputRow: {
         flex: 1,
         flexDirection: 'row'
+    },
+
+    imagePosition:{
+        width:193,
+        height:110
     }
+
 });
 
 export default Style;
