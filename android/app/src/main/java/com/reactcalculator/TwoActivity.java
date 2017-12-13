@@ -15,6 +15,6 @@ public class TwoActivity extends ReactActivity {
     @Nullable
     @Override
     protected String getMainComponentName() {
-        return super.getMainComponentName();
+        return "FlatListBasics";
     }
 }

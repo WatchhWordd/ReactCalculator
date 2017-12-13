@@ -53,8 +53,29 @@ var Style = StyleSheet.create({
 
     GreetingPosition:{
         alignItems: 'center'
-    }
+    },
 
+    flatContainer: {
+        flex: 1,
+        paddingTop: 22
+    },
+    flatItem: {
+        padding: 10,
+        fontSize: 18,
+        height: 44,
+    },
+    toastWelcome: {
+        fontSize: 20,
+        textAlign: 'center',
+        margin: 10,
+    },
+    toastButton: {
+        margin:5,
+        backgroundColor: 'white',
+        padding: 15,
+        borderBottomWidth: StyleSheet.hairlineWidth,
+        borderBottomColor: '#cdcdcd',
+    },
 });
 
 export default Style;
